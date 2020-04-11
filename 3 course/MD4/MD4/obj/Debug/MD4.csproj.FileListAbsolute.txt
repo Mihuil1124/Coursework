@@ -1,0 +1,13 @@
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.csprojAssemblyReference.cache
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MainWindow.g.cs
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\App.g.cs
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4_MarkupCompile.cache
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4_MarkupCompile.lref
+C:\Users\map82_top\source\repos\MD4\MD4\bin\Debug\MD4.exe
+C:\Users\map82_top\source\repos\MD4\MD4\bin\Debug\MD4.pdb
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MainWindow.baml
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.g.resources
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.Properties.Resources.resources
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.csproj.GenerateResource.cache
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.exe
+C:\Users\map82_top\source\repos\MD4\MD4\obj\Debug\MD4.pdb
